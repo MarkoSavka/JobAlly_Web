@@ -24,12 +24,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/markosavka/JobAlly_dev_app/JobAllyWebApp/Pages/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/markosavka/JobAlly_dev_app/JobAllyWebApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/markosavka/JobAlly_dev_app/JobAllyWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/markosavka/JobAlly_dev_app/JobAllyWebApp/Pages/Subscribe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3Vic2NyaWJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/markosavka/JobAlly_dev_app/JobAllyWebApp/Pages/_ViewImports.cshtml]

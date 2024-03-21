@@ -20,3 +20,50 @@ html {
 body {
   margin-bottom: 60px;
 }
+.text-center {
+  padding: 50px 0;
+}
+
+.display-4 {
+  color: #007bff; /* Change the color to your preference */
+}
+.lead {
+  color: #6c757d; /* Change the color to your preference */
+}
+
+.btn-primary {
+  background-color: #007bff; /* Change the color to your preference */
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Change the color to your preference */
+  transition: background-color 0.2s;
+}
+.stylish-title {
+  font-family: 'Arial', sans-serif;
+  color: #007bff;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.stylish-lead {
+  font-family: 'Arial', sans-serif;
+  color: #6c757d;
+  font-size: 20px;
+}
+
+.stylish-button {
+  background-color: #007bff;
+  border: none;
+  transition: background-color 0.2s;
+}
+
+.stylish-button:hover {
+  background-color: #0056b3;
+}
+.info-section {
+  position: absolute;
+  bottom: 60px;
+  width: 30%;
+  padding: 30px 0;
+}
