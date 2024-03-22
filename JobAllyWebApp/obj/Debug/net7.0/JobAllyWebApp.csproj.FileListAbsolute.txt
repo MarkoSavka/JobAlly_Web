@@ -29,3 +29,4 @@
 /Users/markosavka/JobAlly_dev_app/JobAllyWebApp/obj/Debug/net7.0/JobAllyWebApp.pdb
 /Users/markosavka/JobAlly_dev_app/JobAllyWebApp/obj/Debug/net7.0/JobAllyWebApp.genruntimeconfig.cache
 /Users/markosavka/JobAlly_dev_app/JobAllyWebApp/obj/Debug/net7.0/ref/JobAllyWebApp.dll
+/Users/markosavka/JobAlly_dev_app/JobAllyWebApp/bin/Debug/net7.0/registrationData.json
